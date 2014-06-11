@@ -1,0 +1,1 @@
+A simple Android application to store contact details. Required coursework in an Android module at Swansea University
