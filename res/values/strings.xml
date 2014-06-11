@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contacts</string>
+    <string name="title_activity_add_contact">Add Contact</string>
+    <string name="add_title">Please enter contacts details</string>
+    <string name="name_label">Name</string>
+    <string name="name_hint">e.g. "Joe Bloggs"</string>
+    <string name="number_label">Mobile Number</string>
+    <string name="number_hint">e.g. "07XXXXXXXXX"</string>
+    <string name="email_label">Email address</string>
+    <string name="email_hint">e.g. "joe.bloggs@gmail.com"</string>
+    <string name="address_label">Post Code</string>
+    <string name="address_hint">e.g. "SA2 0DZ"</string>
+    <string name="dob_label">Date Of Birth</string>
+    <string name="age_label">Age</string>
+    <string name="dob_hint">e.g. "DD/MM/YYYY"</string>
+    <string name="title_activity_data_list_view">DataListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="contactTitle">Contacts</string>
+    <string name="contactIntro">Click on + to add a new contact, or click on a contact to view, edit or delete</string>
+    <string name="title_activity_view_contact">View Contact</string>
+    <string name="contact_title">Contact Details</string>
+    <string name="singleTitle">Contact Details</string>
+    <string name="singleIntro">Click edit to change the details of the current contact</string>
+    <string name="singleIntroEdit">Click save to update the current contact details</string>
+    <string name="title_activity_edit_contact">Edit Contact</string>
+    <string name="title_activity_contact_splash">ContactSplash</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
